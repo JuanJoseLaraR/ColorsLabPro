@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColorLabPro</string>
+    <string name="selected_color">color seleccionado</string>
+    <string name="save_favorite">guardar en favoritos</string>
+    <string name="apply_theme">aplicar tema</string>
+    <string name="favorites">Favoritos</string>
+
+
+
+</resources>
